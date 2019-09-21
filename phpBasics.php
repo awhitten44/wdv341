@@ -12,6 +12,8 @@
 
 <h2><?php echo $yourName ?></h2>
 
+<p> <a href="https://github.com/awhitten44/wdv341/blob/master/phpBasics.php">My GitHub Repository</a></p>
+
 <?php
 $number1 = 12;
 $number2 = 8;
